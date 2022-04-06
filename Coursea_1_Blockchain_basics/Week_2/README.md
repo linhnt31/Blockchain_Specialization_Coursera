@@ -22,7 +22,9 @@ ___
 
 \- An EOA will initiate a transaction to update *the state* of the Ethereum network. 
 
-![](https://www.researchgate.net/profile/Xu-Wang-87/publication/330351295/figure/fig4/AS:714613125558273@1547388454129/Ethereum-transaction-format.ppm)
+|![](https://www.researchgate.net/profile/Xu-Wang-87/publication/330351295/figure/fig4/AS:714613125558273@1547388454129/Ethereum-transaction-format.ppm)|
+:---:
+|*Fig 2. A Transaction between two individuals*|
 
 \- Transactions require *a fee* (or gas, we will discover later) and must be mined to become valid.
 
@@ -59,7 +61,7 @@ ___
 
 |![](./Images/Ethereum_transaction.jpg) |
 :---:
-|*Fig 2. An Ethereum transaction*|
+|*Fig 3. An Ethereum transaction*|
 
 + **Ethereum difficulty** is a measure of *how many hashes* (statistically) must be generated to find a valid solution to solve the next Ethereum block and earn the mining reward.
 ##### 2.3. Ethereum Virtual Machine (EVM)
