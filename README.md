@@ -15,6 +15,6 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - [Week 2 - Quiz - Ethereum Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursea_1_Blockchain_basics/Week_2/Assignments)
 
-- [Week 3 - Quiz - Algorithms & Techniques]()
+- [Week 3 - Quiz - Algorithms & Techniques](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursea_1_Blockchain_basics/Week_3/Assignments)
 
 - [Week 4 - Quiz - Trust Essentials]()
