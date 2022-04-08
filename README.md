@@ -11,10 +11,10 @@ This repo contains all my work for this specialization. All the notes, reference
 ## 2. Assignment Solutions
 
 #### 2.1. Course 1: Blockchain Basics 
-- [Week 1 - Quiz - Blockchain Defined](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursea_1_Blockchain_basics/Week_1/Assignments)
+- [Week 1 - Quiz - Blockchain Defined](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_1/Assignments)
 
-- [Week 2 - Quiz - Ethereum Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursea_1_Blockchain_basics/Week_2/Assignments)
+- [Week 2 - Quiz - Ethereum Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_2/Assignments)
 
-- [Week 3 - Quiz - Algorithms & Techniques](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursea_1_Blockchain_basics/Week_3/Assignments)
+- [Week 3 - Quiz - Algorithms & Techniques](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_3/Assignments)
 
-- [Week 4 - Quiz - Trust Essentials](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursea_1_Blockchain_basics/Week_4/Assignments)
+- [Week 4 - Quiz - Trust Essentials](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4/Assignments)
