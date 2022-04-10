@@ -1,0 +1,170 @@
+## Welcome to week 2
+
+___
+
+\- In this week, I highly recommend you to go to [https://cryptozombies.io/](https://cryptozombies.io/en/course) to learn Solidity. 
+
+### 1. Some notes about Solidity language that I learned and used from [https://cryptozombies.io](https://cryptozombies.io/en/course) website
+
+##### 1.1. State Variables & Integers
+
+\- **State variables** are permanently stored in contract storage. This means they're written to the Ethereum blockchain.
+
+##### 1.2. Structs
+
+\- Sometimes you need a more complex data type that have multiple properties..
+
+```solidity
+struct Person {
+  uint age;
+  string name;
+  bool isOld;
+}
+```
+
+##### 1.3.Arrays
+
+\- There are two types of arrays in Solidity: **fixed** arrays and **dynamic** arrays
+
+``` Solidity
+// Array with a fixed length of 2 elements:
+string[2] fixedArray;
+
+// a dynamic Array - has no fixed size, can keep growing:
+uint[] dynamicArray;
+```
+
+\- We can declare an array as ***public***, and Solidity will automatically create a ***getter method*** for it.
+
++ Other contracts would then be able to **read** from, but **not write** to, this array
+
+```solidity
+struct Zombie {
+    string name;
+    uint dna;
+}
+
+Zombie[] public zombies;
+```
+
+##### 1.4. Function 
+
+\- **Reference types:** when we pass a variable to a function, if our function changes the value of the variable it receives, the value of the original variable gets changed.
+
++ For example: arrays, structs, mappings, and strings.
+
++ This kind of variable is required to store in **memory**.
+
+```solidity
+function createZombie(string memory _name, uint _dna) public {
+    zombies.push(Zombie(_name, _dna));
+}
+```
+
+\- In Solidity, functions are **public** by default.
+
+\- We should start **private** function with an underscore. 
+
+```solidity
+function _createZombie(string memory _name, uint _dna) private {
+    zombies.push(Zombie(_name, _dna));
+}
+```
+
+\- **view** function it's only viewing the data but ***not modifying*** it.
+
++ **pure** function: we're not reading accessing the state of the the app. 
+
+```solidity
+function _generateRandomDna(string memory _str) private view returns (uint) {
+    uint rand = uint(keccak256(abi.encodePacked(_str)));
+    return rand % dnaModulus;
+}
+```
+##### 1.5. Events
+
+\- **Events** are a way for contracts to communicate that something happened on the blockchain to your app front-end, which can be 'listening' for certain events and take action when they happen.
+
+```solidity
+// When a new zombie is created, the NewZombie event is fired
+event NewZombie(uint zombieId, string name, uint dna);
+
+function _createZombie(string memory _name, uint _dna) private {
+    zombies.push(Zombie(_name, _dna));
+    // and fire it here
+    uint id = zombies.push() - 1;
+    emit NewZombie(id, _name, _dna);
+}
+```
+
+##### 1.6. Mappings and Addresses
+
+\- Each account in Ethereum has an address that is unique.
+
+\- **Mappings** is another way of storing organized data like structs and arrays. 
+
++ A pair of key-value
+
+```solidity
+//key: unit and value: address
+mapping (uint => address) public zombieToOwner;
+```
+
+##### 1.7. Global variables 
+
+\- **msg.sender:** refers to the ***address*** of the person or a smart contract who invoked the current function.  
+
+```solidity
+mapping (uint => address) public zombieToOwner;
+mapping (address => uint) ownerZombieCount;
+
+function _createZombie(string memory _name, uint _dna) private {
+    uint id = zombies.push(Zombie(_name, _dna)) - 1;
+    zombieToOwner[id] = msg.sender;
+    ownerZombieCount[msg.sender]++;
+    emit NewZombie(id, _name, _dna);
+}
+```
+
+##### 1.8. Conditions 
+
+\- To compare conditions, we can use **require()** function
+
+```solidity
+// If the condition returns true, it will continue to execute the following code. 
+require(ownerZombieCount[msg.sender] == 0);
+```
+
+##### 1.9. Storage and Memory
+
+\- **Storage:** variables stored ***permanently*** on the blockchain
+
+\- **Memory:** variables stored ***temporarily*** on the blockchain
+
+##### 1.10. Function visibility
+
+\- In addition to **public** and **private**, Solidity has two more types of visibility for functions: **internal** and **external**.
+
++ **internal** is similar to **private**, except for it's accessible to contract's internal functions that other contracts inherit. 
+
++ **external** is the same as **public**, except that these functions can ONLY be called outside the contract 
+
+```solidity
+contract Sandwich {
+  uint private sandwichesEaten = 0;
+
+  function eat() internal {
+    sandwichesEaten++;
+  }
+}
+
+contract BLT is Sandwich {
+  uint private baconSandwichesEaten = 0;
+
+  function eatWithBacon() public returns (string memory) {
+    baconSandwichesEaten++;
+    // We can call this here because it's internal
+    eat();
+  }
+}
+```
