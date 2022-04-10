@@ -168,3 +168,16 @@ contract BLT is Sandwich {
   }
 }
 ```
+##### 1.11. Enums and Time units
+
+\- Enums restrict a variable to have one of only a few predefined values.
+
+```solidity
+contract test {
+   enum FreshJuiceSize{ SMALL, MEDIUM, LARGE }
+   FreshJuiceSize choice;
+   FreshJuiceSize constant defaultChoice = FreshJuiceSize.MEDIUM;
+}
+```
+
+\- To solve **Ballotv2** problem, we need to read docs about [***Time units***](https://docs.soliditylang.org/en/v0.4.21/units-and-global-variables.html).
