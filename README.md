@@ -17,7 +17,7 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - [Week 3 - Quiz - Algorithms & Techniques](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_3/Assignments)
 
-- [Week 4 - Quiz - Trust Essentials](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4/Assignments)
+- [Week 4 - Quiz and Project - Trust Essentials](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4/Assignments)
 
 #### 2.2. Course 2: Smart contracts
 
@@ -26,3 +26,5 @@ This repo contains all my work for this specialization. All the notes, reference
 - [Week 2 - Quiz - Solidity](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_2/Assignments)
 
 - [Week 3 - Quiz - Putting it all together](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_3/Assignments)
+
+- [Week 4 - Quiz and Project - Best Practices](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_4/Assignments)
