@@ -28,3 +28,7 @@ This repo contains all my work for this specialization. All the notes, reference
 - [Week 3 - Quiz - Putting it all together](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_3/Assignments)
 
 - [Week 4 - Quiz and Project - Best Practices](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_4/Assignments)
+
+## 3. Disclaimer
+
+I recognize the time people spend on building intuition, understanding new concepts, solving quizzes and assignments in this course. The solutions uploaded here are only for reference purpose. They are meant to support you if you get stuck somewhere. 
