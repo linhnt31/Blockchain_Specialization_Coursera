@@ -250,5 +250,31 @@ contract FunctionModifier {
         }
     }
 }
+```
+#### 1.13. Interface 
 
+\- A contract wants to talk to another contract on the blockchain that we don't own, as long they expose those functions as **public or external**,first we need to define an **interface**.
+
+\- By including this interface in our dapp's code our contract knows what the other contract's functions look like, how to call them, and what sort of response to expect.
+
+\- Here is an example: 
+
+```solidity
+// First contract
+contract LuckyNumber {
+  mapping(address => uint) numbers;
+
+  function setNum(uint _num) public {
+    numbers[msg.sender] = _num;
+  }
+
+  function getNum(address _myAddress) public view returns (uint) {
+    return numbers[_myAddress];
+  }
+}
+
+// Second contract
+contract NumberInterface {
+  function getNum(address _myAddress) public view returns (uint);
+}
 ```
