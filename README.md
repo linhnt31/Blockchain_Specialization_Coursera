@@ -25,4 +25,4 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - [Week 2 - Quiz - Solidity](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_2/Assignments)
 
-- [Week 3 - Quiz - Putting it all together]()
+- [Week 3 - Quiz - Putting it all together](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_3/Assignments)
