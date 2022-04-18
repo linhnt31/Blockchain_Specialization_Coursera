@@ -44,9 +44,9 @@ In the previous part, we have grasped an overview about PoW. It's time to deep d
 
 \- PoW is invented adopting the following requirements to solve preceded solutions based on Ip addresses or rasing hands, etc: 
 
-+ Add a difficulty to casting vote
++ Add a [difficulty](https://www.coindesk.com/learn/bitcoin-mining-difficulty-everything-you-need-to-know/#:~:text=Bitcoin's%20mining%20difficulty%20is%20updated,to%20mine%20a%20new%20block.) to casting vote or the hash of a block starts with a specific number of zero's
 
-+ Make it costly for attempting manipulation
++ Make it costly for attempting manipulation (spamming, tampering)
 
 > Proof Of Work uses **CPU Power/Energy** to determine the majority decision. Each time a block is added to the Blockchain, CPU power/energy is consumed. 
 
