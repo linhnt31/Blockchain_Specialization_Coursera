@@ -29,6 +29,12 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - [Week 4 - Quiz and Project - Best Practices](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_4/Assignments)
 
-## 3. Disclaimer
+## 3. Key concepts 
+
+- [Proof of Work (PoW)](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Consensus_Mechanisms#2-proof-of-work-determining-majority-power-2-3)
+
+- [Proof of Stake (PoS)]()
+
+## 4. Disclaimer
 
 I recognize the time people spend on building intuition, understanding new concepts, solving quizzes and assignments in this course. The solutions uploaded here are only for reference purpose. They are meant to support you if you get stuck somewhere. 
