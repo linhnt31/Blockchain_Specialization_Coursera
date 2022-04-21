@@ -11,23 +11,28 @@ This repo contains all my work for this specialization. All the notes, reference
 ## 2. Assignment Solutions
 
 #### 2.1. Course 1: Blockchain Basics 
-- [Week 1 - Quiz - Blockchain Defined](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_1/Assignments)
+- Week 1 - Blockchain Defined: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_1/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_1)
 
-- [Week 2 - Quiz - Ethereum Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_2/Assignments)
+- Week 2 - Ethereum Blockchain: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_2/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_2)
 
-- [Week 3 - Quiz - Algorithms & Techniques](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_3/Assignments)
+- Week 3 - Algorithms & Techniques: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_3/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_3)
 
-- [Week 4 - Quiz and Project - Trust Essentials](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4/Assignments)
+- Week 4 - Trust Essentials: [Quiz and Project](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4)
 
 #### 2.2. Course 2: Smart contracts
 
-- [Week 1 - Quiz - Smart contract basics](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_1/Assignments)
+- Week 1 - Smart contract basics: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_1/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_1)
 
-- [Week 2 - Quiz - Solidity](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_2/Assignments)
+- Week 2 - Solidity: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_2/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_2)
 
-- [Week 3 - Quiz - Putting it all together](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_3/Assignments)
+- Week 3 - Putting it all together: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_3/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_3)
 
-- [Week 4 - Quiz and Project - Best Practices](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_4/Assignments)
+- Week 4 - Best Practices: [Quiz Solution and Project](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_4)
+
+#### 2.3. Course 2: Decentralized applications (Dapps)
+
+- Week 1 - Decentralized applications: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_1/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_1) 
+
 
 ## 3. Key concepts 
 
