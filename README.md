@@ -33,6 +33,7 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - Week 1 - Decentralized applications: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_1/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_1) 
 
+- Week 2 - Truffle development: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_2/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_2) | [Source code for deploying Dapp](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_2/src/ballotProject)
 
 ## 3. Key concepts 
 
