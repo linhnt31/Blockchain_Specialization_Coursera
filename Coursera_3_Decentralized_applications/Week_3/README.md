@@ -23,3 +23,11 @@ ___
 #### 2. Event handling
 
 \- **Events:** push notifications and log activities for completion a task within a smart contract and the Blockchain.
+
+#### 3. Oraclize
+
+\- Allow a smart contract accessing external resources. Or, **Oraclize** is a data carrier between web resources (APIs, URLs) and a smart contract. 
+
+|![](https://programmerclick.com/images/376/41fc79b8dbf1c72cc096ace820297b40.png)
+:---:
+|*Fid 1. How Oraclize works*|
