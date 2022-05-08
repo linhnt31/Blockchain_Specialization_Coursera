@@ -17,7 +17,7 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - Week 3 - Algorithms & Techniques: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_3/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_3)
 
-- Week 4 - Trust Essentials: [Quiz and Project](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4)
+- Week 4 - Trust Essentials: [Quiz Solution and Project](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_1_Blockchain_basics/Week_4)
 
 #### 2.2. Course 2: Smart contracts
 
@@ -29,11 +29,17 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - Week 4 - Best Practices: [Quiz Solution and Project](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_2_Smart_contracts/Week_4)
 
-#### 2.3. Course 2: Decentralized applications (Dapps)
+#### 2.3. Course 3: Decentralized applications (Dapps)
 
 - Week 1 - Decentralized applications: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_1/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_1) 
 
 - Week 2 - Truffle development: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_2/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_2) | [Source code for deploying Dapp](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_2/src/ballotProject)
+
+- Week 3 - Design improvements: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_3/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_3)
+
+- Week 4 - Application models & Standards: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/Week_4)
+
+- Final course project: [Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/FinalCourseProject)
 
 ## 3. Key concepts 
 
