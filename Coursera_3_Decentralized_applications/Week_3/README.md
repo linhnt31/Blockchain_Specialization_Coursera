@@ -24,7 +24,7 @@ ___
 
 \- **Events:** push notifications and log activities for completion a task within a smart contract and the Blockchain.
 
-#### 3. Oraclize
+#### 3. Oraclize or Provable 
 
 \- Allow a smart contract accessing external resources. Or, **Oraclize** is a data carrier between web resources (APIs, URLs) and a smart contract. 
 
