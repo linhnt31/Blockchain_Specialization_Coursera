@@ -41,6 +41,10 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - Final course project: [Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/FinalCourseProject)
 
+#### 2.4. Course 4: Blockchain platforms
+
+- Week 1 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_4_Blockchain_platforms/Week_1/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Coursera_4_Blockchain_platforms/Week_1) 
+
 ## 3. Key concepts 
 
 - [Proof of Work (PoW)](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Consensus_Mechanisms#2-proof-of-work-determining-majority-power-2-3)
