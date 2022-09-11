@@ -4,7 +4,7 @@ ___
 
 ##### 1. Interplanetary File System (IPFS)
 
-\- **IPFS** is a decentralized file sharing protocol. 
+\- **IPFS** is a decentralized file sharing or **content-based** sharing file system. 
 
 |![](https://ars.els-cdn.com/content/image/1-s2.0-S0167739X19323003-gr1.jpg)|
 |:---:|
@@ -22,9 +22,11 @@ ___
 
 + Peer nodes want to exchange blocks of file using **bitswap protocol** (communicating between nodes, incentivize sending blocks, load balancers,...).
 
-+ Multiple versions of a file is managed by **Merkle DAG* to check any tampering and avoid file duplication.
++ Multiple versions of a file is managed by *Merkle DAG* to check any tampering and avoid file duplication.
 
 ##### 2. Hashgraph
+
+\- **Hashgraph** provides a consensus layer that orders the transactions with low latency and minimal power consumption.
 
 ### References
 
