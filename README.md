@@ -45,6 +45,12 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - Week 1 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_4_Blockchain_platforms/Week_1/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Coursera_4_Blockchain_platforms/Week_1) 
 
+- Week 2 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_4_Blockchain_platforms/Week_2/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Coursera_4_Blockchain_platforms/Week_2) 
+
+- Week 3 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_4_Blockchain_platforms/Week_3/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Coursera_4_Blockchain_platforms/Week_3) 
+
+- Week 4 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_4_Blockchain_platforms/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Coursera_4_Blockchain_platforms/Week_4) 
+
 ## 3. Key concepts 
 
 - [Proof of Work (PoW)](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Consensus_Mechanisms#2-proof-of-work-determining-majority-power-2-3)
