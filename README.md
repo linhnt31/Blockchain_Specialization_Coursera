@@ -55,7 +55,7 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - [Proof of Work (PoW)](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Consensus_Mechanisms#2-proof-of-work-determining-majority-power-2-3)
 
-- [Proof of Stake (PoS)]()
+- [Proof of Stake (PoS)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 
 ## 4. Disclaimer
 
