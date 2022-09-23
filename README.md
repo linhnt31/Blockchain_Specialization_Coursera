@@ -57,7 +57,7 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - [Proof of Stake (PoS)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 
-- [Permissioned vs Permissionless Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Consensus_Mechanisms/Permissioned_and_Permissionless.md)
+- [Permissioned vs Permissionless Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Permissioned_and_Permissionless.md)
 
 ## 4. Disclaimer
 
