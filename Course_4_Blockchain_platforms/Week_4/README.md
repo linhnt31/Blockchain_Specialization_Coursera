@@ -14,9 +14,11 @@ ___
 
 \- **IPFS** can work in tandem with Blockchain when they can store *the volume/data*, its metadata can be stored in DLT. 
 
-|![](https://www.researchgate.net/publication/337712447/figure/fig1/AS:834500409974784@1575971810081/Data-sharing-on-IPFS-by-owner.png)|
+|![](https://www.researchgate.net/profile/Nadeem-Javaid/publication/337712447/figure/fig1/AS:834500409974784@1575971810081/Data-sharing-on-IPFS-by-owner.png)|
 |:---:|
-|*Fig 2. IPFS and data sharing [2]*|
+|*Fig 2. IPFS and data sharing [2]*| 
+
+- I do not why this image couldn't display, you can refer it via its link in my README.md file
 
 + In IPFS, there is the `distributed hash table` (DHT) for routing which contains locations of nodes and file objects. 
 
