@@ -22,7 +22,7 @@ ___
 
 + **A Genesis Block** is the name given to the first block a cryptocurrency
 
-| ![](https://www.researchgate.net/profile/Saraju-Mohanty/publication/326102908/figure/fig1/AS:643703962099719@1530482392658/Core-components-of-blockchain.png) |
+| ![](./Images/Core-components-of-blockchain.png)|
 |:--:| 
 | *Fig 1. The structure of blockchain* |
 
@@ -100,9 +100,15 @@ ___
 
     + Have access restrictions (governed by an organization, a company,...) and be centralized
 
-    + For example: Hyperledger,...
+    + For example: Private Ethereum,...
+    
++ ***Consortium blockchains:***
 
-+ ***Consortiums or Hybrid blockchain:***
+    + A consortium is a special type of blockchain where multiple individuals or organizations govern the blockchain network.
+    
+    + For example: Hyperledge Fabric,...
+    
++ ***Hybrid blockchain:***
 
     + Combination of public and private blockchain
 
