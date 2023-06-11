@@ -59,6 +59,7 @@ This repo contains all my work for this specialization. All the notes, reference
 
 - [Permissioned vs Permissionless Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Permissioned_and_Permissionless.md)
 
+- [Vulnerability vs Threat vs Risk](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Vulnerability_Threat_Risk.md)
 ## 4. Disclaimer
 
 I recognize the time people spend on building intuition, understanding new concepts, solving quizzes and assignments in this course. The solutions uploaded here are only for reference purpose. They are meant to support you if you get stuck somewhere. 
