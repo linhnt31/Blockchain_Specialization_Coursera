@@ -64,6 +64,8 @@ This is the first time I have studied and worked with blockchain, so feel free t
 - [Vulnerability vs Threat vs Risk](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Vulnerability_Threat_Risk.md)
 
 - [Authenticity vs Integrity vs Confidentiality](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Authenticity_vs_Integrity.md)
+
+- [Blockchain Interoperability](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Blockchain_interoperability.md)
   
 ## 4. Disclaimer
 
