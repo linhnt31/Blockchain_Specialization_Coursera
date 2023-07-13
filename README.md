@@ -68,6 +68,8 @@ This is the first time I have studied and worked with blockchain, so feel free t
 - [Blockchain Interoperability](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Blockchain_interoperability.md)
 
 - [Ethereum Virtual Machine](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Ethereum-Virtual-Machine.md)
+
+- [Setting up a private Ethereum blockchain network with Geth and Learning relevant concepts](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Setting_up_private_blockchain_network_with_geth.md)
   
 ## 4. Disclaimer
 
