@@ -66,6 +66,8 @@ This is the first time I have studied and worked with blockchain, so feel free t
 - [Authenticity vs Integrity vs Confidentiality](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Authenticity_vs_Integrity.md)
 
 - [Blockchain Interoperability](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Blockchain_interoperability.md)
+
+- [Ethereum Virtual Machine](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Ethereum-Virtual-Machine.md)
   
 ## 4. Disclaimer
 
