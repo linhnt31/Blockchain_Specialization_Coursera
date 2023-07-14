@@ -105,6 +105,8 @@ INFO [07-14|01:34:42.491] Persisted trie from memory database      nodes=4 size=
 INFO [07-14|01:34:42.492] Successfully wrote genesis state         database=lightchaindata hash=fe54df..bcf74c
 ```
 
+> **NOTE**: `The public address` is a hashed version of the `public key`.
+
 \- Configure a **bootnode** using *bootnode tool*:
 
 ```python
