@@ -53,7 +53,7 @@ This is the first time I have studied and worked with blockchain, so feel free t
 
 - Week 4 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Course_4_Blockchain_platforms/Week_4) 
 
-## 3. Key concepts 
+## 3. Key Concepts and Implementations 
 
 - [Proof of Work (PoW)](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Consensus_Mechanisms#2-proof-of-work-determining-majority-power-2-3)
 
@@ -70,7 +70,9 @@ This is the first time I have studied and worked with blockchain, so feel free t
 - [Ethereum Virtual Machine](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Ethereum-Virtual-Machine.md)
 
 - [Setting up a private Ethereum blockchain network with Geth and Learning relevant concepts](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Setting_up_private_blockchain_network_with_geth.md)
-  
+
+- [Proof of Authority (PoA) consensus protocol and Detailed explanation of the PoA genesis file](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Proof-Of-Authority.md)
+
 ## 4. Disclaimer
 
 I recognize the time people spend on building intuition, understanding new concepts, solving quizzes and assignments in this course. The solutions uploaded here are only for reference purpose. They are meant to support you if you get stuck somewhere. 
