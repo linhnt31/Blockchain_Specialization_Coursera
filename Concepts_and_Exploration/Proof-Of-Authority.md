@@ -57,6 +57,12 @@ Where
  
   + [Our chain won't be hard-forking for these changes, so leave as 0](https://ethereum.stackexchange.com/questions/15682/the-meaning-specification-of-config-in-genesis-json?newreg=531e22562301481f96f0d576f56b7192).
 
++ [**clique**](https://docs.klaytn.foundation/content/installation-guide/deployment/service-chain/references/genesis#clique): stores the configuration for Proof-Of-Authority (POA) based sealing.
+
+  + **period**: The minimum time interval between the consecutive blocks (unit: second).
+ 
+  + **epoch**: The number of blocks to reset votes and marked as a checkpoint.
+    
 + **coinbase**: it is a 40 digits hex ethereum address (160 bit, one hex digit is 4 bit) where all rewards collected from the successful block validation will be transferred. A reward is a sum of the mining reward and the refunds from executing contract transactions. *Since it’s a genesis block, the value for this block can be anything*. For all the next blocks the value will be an address set by the miner who validated that block.
   
 + **difficulty**: mining difficulty  #set this value low so you don’t have to wait too long for mining blocks
@@ -74,6 +80,7 @@ Where
 + **alloc**: pre-funded address. The address is a 40 digits hex string (160 bit, one hex digit is 4 bit)
 
 
+> Relevant article: [Setting up a private Ethereum blockchain network with Geth and Learning relevant concepts](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Setting_up_private_blockchain_network_with_geth.md)
 
 ### Refereces
 
