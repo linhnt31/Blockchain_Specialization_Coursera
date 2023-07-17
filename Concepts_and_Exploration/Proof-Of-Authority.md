@@ -1,6 +1,8 @@
 ### 1. What is Proof of Authority (PoA)?
 
-\- `PoA` is often used in the private and consortium blockchain network [[0]](https://github.com/ibrahimmashaly/geth-poa-tutorial). In stead of using resource-intensive miners, PoA have authority nodes, named **signers** or **sealers**. 
+\- `PoA` is a reputation-based consensus algorithm and is often used in the private and consortium blockchain network [[0]](https://github.com/ibrahimmashaly/geth-poa-tutorial). Instead of using resource-intensive miners, PoA has authority nodes, named **signers** or **sealers**. 
+
+  + The number of *authority nodes* is often small. They are manually chosen by the blockchain network owner leading to a less degree of decentralization but providing high throughput and high scalability. 
 
 \- **Clique** is a native PoA protocol in Geth. **Clique** has key features as follows:
 
@@ -8,7 +10,7 @@
 
 $$CONSECUTIVE\\_BLOCK\\_LIMIT = {NUMBER\\_OF\\_TOTAL\\_SIGNERS \over 2} + 1$$
 
-+ Will be upadated soon!
++ Will be updated soon!
   
 ### 2. Explain the PoA genesis file [1-3]
 
