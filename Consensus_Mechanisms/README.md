@@ -2,7 +2,7 @@
 
 ___ 
 
-This post extracts some important takeaways is taken from share's Shawn in https://www.mangoresearch.co/. 
+This post extracts some important takeaways taken from share's Shawn at https://www.mangoresearch.co/. 
 
 #### 1. How Are Blockchain Transactions Validated? [1]
 
@@ -12,17 +12,17 @@ This post extracts some important takeaways is taken from share's Shawn in https
 
 ##### 1.2. Differentiation between Validation and Consensus
 
-To distinguish two concepts, we firstly are to understand the definitions and how they work. 
+To distinguish two concepts, we first understand their definitions and how they work. 
 
-\- **Validation:** verifying transactions are eligible (not not malicious, double spends,...).
+\- **Validation:** verifying transactions are eligible (not malicious, double spends,...).
 
 \- **Consensus:**
 
-+ involves determining the `ordering of validated transactions`. 
++ Is the process of reaching a common agreement on a sing *state* among distributed nodes.
 
-+ Deciding who's block is included onto the chain. 
++ Deciding who's block is included in the chain. 
 
-+ reaching consensus means that at least ***51% of the nodes*** on the network agree on the next global state of the network. [4]
++ Reaching consensus means that at least ***51% of the nodes*** on the network agree on the next global state of the network. [4]
 
 \- **NOTE:** From two definitions, we can see that the validation precedes the consensus. 
 
@@ -40,9 +40,9 @@ To distinguish two concepts, we firstly are to understand the definitions and ho
 
 #### 2. Proof Of Work: Determining Majority “Power” [2-3]
 
-In the previous part, we have grasped an overview about PoW. It's time to deep dive into it. 
+In the previous part, we have grasped an overview of PoW. It's time to deep dive into it. 
 
-\- PoW is invented adopting the following requirements to solve preceded solutions based on Ip addresses or rasing hands, etc: 
+\- PoW is invented by adopting the following requirements to solve preceded solutions based on Ip addresses or raising hands, etc: 
 
 + Add a [difficulty](https://www.coindesk.com/learn/bitcoin-mining-difficulty-everything-you-need-to-know/#:~:text=Bitcoin's%20mining%20difficulty%20is%20updated,to%20mine%20a%20new%20block.) to casting vote or the hash of a block starts with a specific number of zero's
 
