@@ -41,7 +41,7 @@ This is the first time I have studied and worked with blockchain, so feel free t
 
 - Week 4 - Application models & Standards: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_3_Decentralized_applications/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_3_Decentralized_applications/Week_4)
 
-- Final course project: [Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Coursera_3_Decentralized_applications/FinalCourseProject)
+- Final course project: [Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_3_Decentralized_applications/FinalCourseProject)
 
 #### 2.4. Course 4: Blockchain platforms
 
