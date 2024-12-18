@@ -57,25 +57,25 @@ This is the first time I have studied and worked with blockchain, so feel free t
 
 ## 3. State Of The Arts, Key Concepts and Implementations 
 
-- [Blockchain-enabled Tokenization](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/blockchain_tokenization.md)
+- [Blockchain-enabled Tokenization](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/SoK/blockchain_tokenization.md)
 
 - [Proof of Work (PoW)](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Consensus_Mechanisms#2-proof-of-work-determining-majority-power-2-3)
 
 - [Proof of Stake (PoS)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 
-- [Permissioned vs Permissionless Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Permissioned_and_Permissionless.md)
+- [Permissioned vs Permissionless Blockchain](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/SoK/Permissioned_and_Permissionless.md)
 
-- [Vulnerability vs Threat vs Risk](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Vulnerability_Threat_Risk.md)
+- [Vulnerability vs Threat vs Risk](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/SoK/Vulnerability_Threat_Risk.md)
 
-- [Authenticity vs Integrity vs Confidentiality](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Authenticity_vs_Integrity.md)
+- [Authenticity vs Integrity vs Confidentiality](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/SoK/Authenticity_vs_Integrity.md)
 
-- [Blockchain Interoperability](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Blockchain_interoperability.md)
+- [Blockchain Interoperability](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/SoK/Blockchain_interoperability.md)
 
-- [Ethereum Virtual Machine](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Ethereum-Virtual-Machine.md)
+- [Ethereum Virtual Machine](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/SoK/Ethereum-Virtual-Machine.md)
 
-- [Setting up a private Ethereum blockchain network with Geth and Learning relevant concepts](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Setting_up_private_blockchain_network_with_geth.md)
+- [Setting up a private Ethereum blockchain network with Geth and Learning relevant concepts](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/SoK/Setting_up_private_blockchain_network_with_geth.md)
 
-- [Proof of Authority (PoA) consensus protocol and Detailed explanation of the PoA genesis file](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/Proof-Of-Authority.md)
+- [Proof of Authority (PoA) consensus protocol and Detailed explanation of the PoA genesis file](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/SoK/Proof-Of-Authority.md)
 
 ## 4. Disclaimer
 
