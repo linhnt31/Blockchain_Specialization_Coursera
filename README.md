@@ -57,6 +57,8 @@ This is the first time I have studied and worked with blockchain, so feel free t
 
 ## 3. State Of The Arts, Key Concepts and Implementations 
 
+- [Blockchain-enabled Tokenization](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Concepts_and_Exploration/blockchain_tokenization.md)
+
 - [Proof of Work (PoW)](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Consensus_Mechanisms#2-proof-of-work-determining-majority-power-2-3)
 
 - [Proof of Stake (PoS)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
