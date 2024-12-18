@@ -6,7 +6,9 @@ Instructor: [Bina Ramamurthy](https://www.coursera.org/instructor/~5767003)
 
 ## 1. Introduction
 
-This repo contains all my work for this specialization. All the notes, reference materials, code base, quiz questions, screenshot, and images, are taken from, unless specified, [Blockchain Specialization on Coursera](https://www.coursera.org/specializations/blockchain#about). Besides, I also write key takeaways from blockchain and blockchain-related concepts in this repository.
+This repo contains all my work for this specialization. All the notes, reference materials, code base, quiz questions, screenshot, and images, are taken from, unless specified, [Blockchain Specialization on Coursera](https://www.coursera.org/specializations/blockchain#about). 
+
+> **NOTE**: Key takeaways from blockchain-related concepts and state-of-the-art blockchains are also continuously updated and included in this repository.
 
 This is the first time I have studied and worked with blockchain, so feel free to contact me if you find any mistakes or want to add something to make the repository more complete by creating pull requests. Thank you!
 
@@ -53,7 +55,7 @@ This is the first time I have studied and worked with blockchain, so feel free t
 
 - Week 4 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Course_4_Blockchain_platforms/Week_4) 
 
-## 3. Key Concepts and Implementations 
+## 3. State Of The Arts, Key Concepts and Implementations 
 
 - [Proof of Work (PoW)](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Consensus_Mechanisms#2-proof-of-work-determining-majority-power-2-3)
 
